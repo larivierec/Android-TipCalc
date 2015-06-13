@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Android-TipCalc</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="comp_name">Commerce visited:</string>
+    <string name="people_label">Number of People:</string>
+    <string name="tax_label">Tax:</string>
+
+    <string-array name="Tax_Items">
+        <item >0</item>
+        <item >5</item>
+        <item >10</item>
+        <item >15</item>
+        <item >25</item>
+        <item >Quebec</item>
+    </string-array>
+    <string-array name="Tip_Items">
+        <item >0</item>
+        <item >5</item>
+        <item >10</item>
+        <item >15</item>
+        <item >20</item>
+    </string-array>
+</resources>
